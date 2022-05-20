@@ -256,6 +256,10 @@ i {
     .topper {
         display: none;
     }
+
+    .header-div {
+        padding-top: 45%;
+    }
 }
 
 @media (max-width: 767px) {
@@ -265,6 +269,10 @@ i {
 
     .top-button-div {
         display: none;
+    }
+
+    .header-div {
+        padding-top: 69%;
     }
 }
 
