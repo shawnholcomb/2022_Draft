@@ -112,6 +112,14 @@ a:hover {
     border-bottom: 3px solid #2c9f98;
 }
 
+.sub-section-header {
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-weight: 500;
+    /* padding-bottom: 5px;
+    border-bottom: 3px solid #2c9f98; */
+}
+
 .body-text {
     font-family: 'Roboto', sans-serif;
 }
